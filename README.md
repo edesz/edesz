@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github account! I primarily write code using Python, and just enough HTML.
+Welcome to my github account! I primarily write code using Python, and other tools as I need to - HTML, MATLAB, shell scripts, etc.
 
 <div align="center">
 <a href="https://github.com/edesz">
