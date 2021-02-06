@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my repo! I primarily write code using Python.
+Welcome to my repo! I primarily write code using Python, and just enough HTML.
 
 <div align="center">
 <a href="https://github.com/edesz">
