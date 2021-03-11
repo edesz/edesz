@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my github account! I primarily write code using [Python](https://www.python.org/), and other tools as I need to - [HTML](https://en.wikipedia.org/wiki/HTML), [MATLAB](https://www.mathworks.com/products/matlab.html), [shell scripts](https://en.wikipedia.org/wiki/Shell_script), etc. My coding projects are focused on data analysis techniques, machine learning and usage of Python-based tooling.
+Welcome to my github account! I primarily write code using [Python](https://www.python.org/), and other tools as I need to - [HTML](https://en.wikipedia.org/wiki/HTML), [MATLAB](https://www.mathworks.com/products/matlab.html), [shell scripts](https://en.wikipedia.org/wiki/Shell_script), etc. My coding projects are focused on data analysis techniques and usage of Python-based tooling.
 
 <div align="center">
 <a href="https://github.com/edesz">
