@@ -10,4 +10,6 @@ Welcome to my github account! I primarily write code using [Python](https://www.
 
 Visit my personal blog, in development [here](https://edesz.github.io/explanatory-pages/).
 
+Thanks for visiting!
+
 More to come...
