@@ -4,7 +4,6 @@ Welcome to my github page! I primarily write code using [Python](https://www.pyt
 
 <div align="left">
 <a href="https://github.com/edesz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edesz&show_icons=true&line_height=21&theme=react" alt="edesz's Github Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edesz&theme=react&line_height=27&layout=compact" />
 </a>
 </div>
